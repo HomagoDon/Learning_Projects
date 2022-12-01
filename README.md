@@ -1,1 +1,1 @@
-# this is my learning projects repository!
+# This is my learning projects repository!
