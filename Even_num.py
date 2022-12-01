@@ -9,3 +9,6 @@ def lesser_of_two_evens(a,b):
     else:
 
         return max(a,b)
+
+
+print(lesser_of_two_evens(2,6))
